@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rajesh Narkar\\source\\repos\\FirstMVCProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF4E180A-93A4-4203-A56C-2A9AB7235A0C}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\rajesh narkar\\source\\repos\\firstmvcproject\\firstmvcproject\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF4E180A-93A4-4203-A56C-2A9AB7235A0C}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF4E180A-93A4-4203-A56C-2A9AB7235A0C}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\rajesh narkar\\source\\repos\\firstmvcproject\\firstmvcproject\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF4E180A-93A4-4203-A56C-2A9AB7235A0C}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF4E180A-93A4-4203-A56C-2A9AB7235A0C}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\rajesh narkar\\source\\repos\\firstmvcproject\\firstmvcproject\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF4E180A-93A4-4203-A56C-2A9AB7235A0C}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF4E180A-93A4-4203-A56C-2A9AB7235A0C}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\rajesh narkar\\source\\repos\\firstmvcproject\\firstmvcproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF4E180A-93A4-4203-A56C-2A9AB7235A0C}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF4E180A-93A4-4203-A56C-2A9AB7235A0C}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\rajesh narkar\\source\\repos\\firstmvcproject\\firstmvcproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF4E180A-93A4-4203-A56C-2A9AB7235A0C}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF4E180A-93A4-4203-A56C-2A9AB7235A0C}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\rajesh narkar\\source\\repos\\firstmvcproject\\firstmvcproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF4E180A-93A4-4203-A56C-2A9AB7235A0C}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF4E180A-93A4-4203-A56C-2A9AB7235A0C}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\rajesh narkar\\source\\repos\\firstmvcproject\\firstmvcproject\\data\\coredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF4E180A-93A4-4203-A56C-2A9AB7235A0C}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\data\\coredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF4E180A-93A4-4203-A56C-2A9AB7235A0C}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\rajesh narkar\\source\\repos\\firstmvcproject\\firstmvcproject\\migrations\\20240617180654_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF4E180A-93A4-4203-A56C-2A9AB7235A0C}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\migrations\\20240617180654_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF4E180A-93A4-4203-A56C-2A9AB7235A0C}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\rajesh narkar\\source\\repos\\firstmvcproject\\firstmvcproject\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF4E180A-93A4-4203-A56C-2A9AB7235A0C}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF4E180A-93A4-4203-A56C-2A9AB7235A0C}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\rajesh narkar\\source\\repos\\firstmvcproject\\firstmvcproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF4E180A-93A4-4203-A56C-2A9AB7235A0C}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF4E180A-93A4-4203-A56C-2A9AB7235A0C}|FirstMVCProject\\FirstMVCProject.csproj|c:\\users\\rajesh narkar\\source\\repos\\firstmvcproject\\firstmvcproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF4E180A-93A4-4203-A56C-2A9AB7235A0C}|FirstMVCProject\\FirstMVCProject.csproj|solutionrelative:firstmvcproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\FirstMVCProject\\FirstMVCProject\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\FirstMVCProject\\FirstMVCProject\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FirstMVCProject\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAAwC8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T15:08:46.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\FirstMVCProject\\FirstMVCProject\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\FirstMVCProject\\FirstMVCProject\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "FirstMVCProject\\Views\\Account\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T15:14:48.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\FirstMVCProject\\FirstMVCProject\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\FirstMVCProject\\FirstMVCProject\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "FirstMVCProject\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T15:15:43.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\FirstMVCProject\\FirstMVCProject\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\FirstMVCProject\\FirstMVCProject\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "FirstMVCProject\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T15:16:27.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\FirstMVCProject\\FirstMVCProject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\FirstMVCProject\\FirstMVCProject\\Models\\User.cs",
+              "RelativeToolTip": "FirstMVCProject\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T15:16:50.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\FirstMVCProject\\FirstMVCProject\\appsettings.json",
+              "RelativeDocumentMoniker": "FirstMVCProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\FirstMVCProject\\FirstMVCProject\\appsettings.json",
+              "RelativeToolTip": "FirstMVCProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-17T16:32:17.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\FirstMVCProject\\FirstMVCProject\\Program.cs",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\FirstMVCProject\\FirstMVCProject\\Program.cs",
+              "RelativeToolTip": "FirstMVCProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T16:48:52.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\FirstMVCProject\\FirstMVCProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\FirstMVCProject\\FirstMVCProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FirstMVCProject\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T16:53:58.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\FirstMVCProject\\FirstMVCProject\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\FirstMVCProject\\FirstMVCProject\\Models\\LoginModel.cs",
+              "RelativeToolTip": "FirstMVCProject\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:14:38.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\FirstMVCProject\\FirstMVCProject\\Data\\CoreDbContext.cs",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Data\\CoreDbContext.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\FirstMVCProject\\FirstMVCProject\\Data\\CoreDbContext.cs",
+              "RelativeToolTip": "FirstMVCProject\\Data\\CoreDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T18:01:28.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240617180654_User.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Narkar\\source\\repos\\FirstMVCProject\\FirstMVCProject\\Migrations\\20240617180654_User.cs",
+              "RelativeDocumentMoniker": "FirstMVCProject\\Migrations\\20240617180654_User.cs",
+              "ToolTip": "C:\\Users\\Rajesh Narkar\\source\\repos\\FirstMVCProject\\FirstMVCProject\\Migrations\\20240617180654_User.cs",
+              "RelativeToolTip": "FirstMVCProject\\Migrations\\20240617180654_User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T18:06:55.494Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
